@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @collinbowers - Software Engineer / SRE based in Baltimore. 
-- 🌠 I’m interested in all things big data, automation, and devops.
-- 🌱 I’m currently learning Kubernetes at scale, Cassandra performance optimizations at scale, and distributed systems as a whole. 
-- 💞️ I’m looking to collaborate on anything that makes the lives of us engineers easier.
+- 👋 Hi, I’m @collinbowers - Senior Software Engineer based in Baltimore - currently working @aws! 
+- 🌠 Lover of all things serverless.
 - 📫 How to reach me <collin@collinbowers.io> and [here](https://www.collinbowers.io/)
 
 <!---
