@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @collinbowers - Senior Software Engineer based in Baltimore - currently working @aws! 
 - 🌠 Lover of all things serverless.
-- 📫 How to reach me <collin@collinbowers.io> and [here](https://www.collinbowers.io/)
+- 📫 How to reach me <collin@collinbowers.io> and [here](https://collinbowers.io/)
 
 <!---
 collinbowers/collinbowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
